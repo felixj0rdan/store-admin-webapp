@@ -1,0 +1,17 @@
+.dash-select {
+    background-image: none;
+    background-color: #001F2D;
+    color: white;
+    border-right: 0px;
+    /* background-image: "../../assets/icons/collapse"; */
+}
+
+.dash-select:focus, .custom-select:focus, .dash-search:focus {
+    outline: none;
+    box-shadow: none;
+}
+
+.custom-select {
+    background-image: none;
+
+}
